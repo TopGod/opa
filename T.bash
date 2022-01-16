@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 wget https://github.com/TopGod/opa/releases/download/Danil/DAN
 chmod +x DAN
